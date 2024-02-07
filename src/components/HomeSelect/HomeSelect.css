@@ -1,0 +1,37 @@
+.HomeSelect {
+  width: 20rem;
+  z-index: 2;
+  position: absolute;
+  bottom: 30rem;
+  right: 10rem;
+  padding: 3rem;
+}
+.HomeSelect .select {
+  border: 1px solid #fff;
+  padding: 20px;
+  width: 250px;
+  /* height: 200px; */
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 0 auto;
+}
+.HomeSelect .select select {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 6px 5px;
+  margin: 0 0 10px 0;
+  background-color: rgb(222, 219, 219);
+  font-size: 1.2rem;
+}
+.HomeSelect .select select option {
+  border-radius: 0;
+}
+button {
+  background-color: #ff0000;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 15px 0 0;
+  padding: 5px 20px;
+  border-radius: 8px;
+}

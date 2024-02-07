@@ -1,0 +1,33 @@
+.kinoteatrlar {
+  background:linear-gradient(80deg, rgba(0,0,0,1) 0%, rgba(0, 0, 0, 0.521) 0%), url("../../img/movie-bg2-small.jpg")center/cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 350px;
+  width: 100%;
+}
+.row{
+  padding: 150px 0 100px;
+}
+.red {
+  color: #ff0000;
+}
+.ag {
+  color: #fff;
+}
+.img {
+  max-width: 370px;
+  height: 260px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+p {
+  margin: 0 0 2px;
+}
+p,
+span {
+  font-size: 1.3rem;
+}

@@ -1,0 +1,19 @@
+:where(.css-dev-only-do-not-override-1b0bdye).ant-carousel
+  .slick-dots
+  li
+  button {
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  margin: 0 0 100px;
+}
+:where(.css-dev-only-do-not-override-1b0bdye).ant-carousel .slick-dots-bottom {
+  bottom: 30px;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-carousel .slick-dots li {
+  margin: 0 0.5rem 4rem;
+}
+.HomeCarousel {
+  margin: -210px 0 0;
+  z-index: -1;
+}

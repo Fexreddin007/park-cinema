@@ -1,0 +1,1727 @@
+{
+  "kinoteatr": [
+    {
+      "id": 1,
+      "title": "Park Bulvar",
+      "address": "Neftçilər pr-ti 78, Park Bulvar Əyləncə Mərkəzi, 4-cü mertəbə",
+      "phone": "+994 12 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/parkbulvatr_thumb.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Metro Park",
+      "address": "Təbriz küç., 44, Metro Park AVM, 6-cı mərtəbə",
+      "phone": "(+994 12) 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/Metro_thumb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Alov qüllələri kompleksi",
+      "address": "M. Hüseyn küç., 1 A, Alov qüllələri kompleksi",
+      "phone": "(+994 12) 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/Flame_thumb.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Zaqulba",
+      "address": "Buzovna qəsəbəsi, 'Park Zağulba' ticarət mərkəzi",
+      "phone": "+994 12 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/Zaqulba_thumb.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sahdag",
+      "address": "Qusar r., Laza k., Şahdağ Turistik Kompleksi",
+      "phone": "+994 12 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/dlkfldk_thumb.png"
+    },
+    {
+      "id": 6,
+      "title": "Aygun Mall",
+      "address": "Sabunçu r., Sakit Qocayev 29, Aygun Mall, 3-cü mərtəbə",
+      "phone": "+994 12 598 74 14, 119",
+      "time": "10:00 - 01:00",
+      "img": "https://parkcinema.az/uploads/structures/cinemas/images/78ef969e-e06e-42eb-8d9c-7a272eeb5313_thumb.jpg"
+    }
+  ],
+  "aksiyalar": [
+    {
+      "type": "kinoteatr",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12329",
+          "info": "IMAX 8 AZN",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12328",
+          "info": "Xoşbəxt saatlar. Hər gun ENDİRİM!",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12331",
+          "info": "Ailə tarifi",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 6,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "kinoteatr"
+        },
+        {
+          "id": 7,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "kinoteatr"
+        }
+      ]
+    },
+    {
+      "type": "parkBulvar",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "parkBulvar"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "parkBulvar"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "parkBulvar"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "parkBulvar"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12331",
+          "info": "Ailə tarifi",
+          "branches": "parkBulvar"
+        },
+        {
+          "id": 6,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12328",
+          "info": "Xoşbəxt saatlar. Hər gun ENDİRİM!",
+          "branches": "parkBulvar"
+        }
+      ]
+    },
+    {
+      "type": "metroPark",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "metroPark"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "metroPark"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "metroPark"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "metroPark"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12329",
+          "info": "IMAX 8 AZN",
+          "branches": "metroPark"
+        }
+      ]
+    },
+    {
+      "type": "flameTowers",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12329",
+          "info": "IMAX 8 AZN",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12328",
+          "info": "Xoşbəxt saatlar. Hər gun ENDİRİM!",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12331",
+          "info": "Ailə tarifi",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 6,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "flameTowers"
+        },
+        {
+          "id": 7,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "flameTowers"
+        }
+      ]
+    },
+    {
+      "type": "zaqulba",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "zabulqa"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "zabulqa"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "zabulqa"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "zabulqa"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12328",
+          "info": "Xoşbəxt saatlar. Hər gun ENDİRİM!",
+          "branches": "zabulqa"
+        },
+        {
+          "id": 6,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12329",
+          "info": "IMAX 8 AZN",
+          "branches": "zabulqa"
+        }
+      ]
+    },
+    {
+      "type": "shahdag",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "shahdag"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "shahdag"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12329",
+          "info": "IMAX 8 AZN",
+          "branches": "shahdag"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "shahdag"
+        },
+        {
+          "id": 5,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "shahdag"
+        },
+        {
+          "id": 6,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12331",
+          "info": "Ailə tarifi",
+          "branches": "shahdag"
+        }
+      ]
+    },
+    {
+      "type": "aygunMall",
+      "models": [
+        {
+          "id": 1,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8859",
+          "info": "AD GÜNÜN MÜBARƏK, ƏZİZ DOST!",
+          "branches": "aygun_mall"
+        },
+        {
+          "id": 2,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12445",
+          "info": "SUPER GÜN!",
+          "branches": "aygunMall"
+        },
+        {
+          "id": 3,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/12332",
+          "info": "Tələbə Tarifi",
+          "branches": "aygunMall"
+        },
+        {
+          "id": 4,
+          "img": "https://mobile.parkcinema.az/structures/uploaded/view/8967",
+          "info": "Bonussimo",
+          "branches": "aygunMall"
+        }
+      ]
+    }
+  ],
+  "filmler": [
+    {
+      "id": 1,
+      "name": "Apatiya (Qala)",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "cume, 09 fevral",
+              "seans": ["20:50 (2D)", "20:55 (3D)", "21:00 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Arqayil Supercasus",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": [
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu 04 fevral",
+              "seans": [
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "10:40 (2D)",
+                "12:00 (2D)",
+                "13:20 (2D)",
+                "14:40 (2D)",
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "10:40 (2D)",
+                "12:00 (2D)",
+                "13:20 (2D)",
+                "14:40 (2D)",
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "10:40 (2D)",
+                "12:00 (2D)",
+                "13:20 (2D)",
+                "14:40 (2D)",
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": [
+                "17:20 (2D)",
+                "18:40 (2D)",
+                "20:00 (2D)",
+                "22:40 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": [
+                "10:20 (2D)",
+                "11:40 (2D)",
+                "13:00 (2D)",
+                "14:20 (2D)",
+                "15:40 (2D)",
+                "17:00 (2D)",
+                "18:20 (2D)",
+                "19:40 (2D)",
+                "21:00 (2D)",
+                "22:20 (2D)"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "10:20 (2D)",
+                "11:40 (2D)",
+                "13:00 (2D)",
+                "14:20 (2D)",
+                "15:40 (2D)",
+                "17:00 (2D)",
+                "18:20 (2D)",
+                "19:40 (2D)",
+                "21:00 (2D)",
+                "22:20 (2D)"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "10:20 (2D)",
+                "11:40 (2D)",
+                "13:00 (2D)",
+                "14:20 (2D)",
+                "15:40 (2D)",
+                "17:00 (2D)",
+                "18:20 (2D)",
+                "19:40 (2D)",
+                "21:00 (2D)",
+                "22:20 (2D)"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "10:20 (2D)",
+                "11:40 (2D)",
+                "13:00 (2D)",
+                "14:20 (2D)",
+                "15:40 (2D)",
+                "17:00 (2D)",
+                "18:20 (2D)",
+                "19:40 (2D)",
+                "21:00 (2D)",
+                "22:20 (2D)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["18:30 (2D)", "20:30 (2D)", "21:10 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": [
+                "15:50 (2D)",
+                "18:30 (2D)",
+                "20:30 (2D)",
+                "21:10 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "15:50 (2D)",
+                "18:30 (2D)",
+                "20:30 (2D)",
+                "21:10 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "15:50 (2D)",
+                "18:30 (2D)",
+                "20:30 (2D)",
+                "21:10 (2D)",
+                "23:50 (2D)"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "15:50 (2D)",
+                "18:30 (2D)",
+                "20:30 (2D)",
+                "21:10 (2D)",
+                "23:50 (2D)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Atatürk 2",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:10 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["21:10 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["21:10 (2D)", "23:50 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["21:10 (2D)", "23:50 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["21:10 (2D)", "23:50 (3D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:00 (2D)", "23:40 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["21:00 (2D)", "23:40 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["21:00 (2D)", "23:40 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["21:00 (2D)", "23:40 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["21:00 (2D)", "23:40 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["20:00 (2D)", "22:40 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["20:00 (2D)", "22:40 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["20:00 (2D)", "22:40 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["20:00 (2D)", "22:40 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["20:00 (2D)", "22:40 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["09:30 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["09:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["09:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["09:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "place": "Aygun Mall",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["09:40 (2D)", "12:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["09:40 (2D)", "12:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["09:40 (2D)", "12:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["09:40 (2D)", "12:20 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Axırıncı muzdlu",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:00 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["21:00 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["21:00 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["21:00 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["21:00 (2D)", "23:40 (3D)"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu 04 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi 05 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami 06 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe 07 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu 04 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi 05 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami 06 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe 07 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "place": "Aygun Mall",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu 04 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi 05 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami 06 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe 07 fevral",
+              "seans": ["21:40 (2D)", "23:40 (3D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bacı qardaş komandası",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:30 (2D)", "19:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": [
+                "10:10 (2D)",
+                "12:00 (2D)",
+                "13:50 (2D)",
+                "15:50 (2D)",
+                "17:30 (2D)",
+                "19:20 (2D)"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "10:10 (2D)",
+                "12:00 (2D)",
+                "13:50 (2D)",
+                "15:40 (2D)",
+                "17:30 (2D)",
+                "19:20 (2D)"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "10:10 (2D)",
+                "12:00 (2D)",
+                "13:50 (2D)",
+                "15:40 (2D)",
+                "17:30 (2D)",
+                "19:20 (2D)"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "10:10 (2D)",
+                "12:00 (2D)",
+                "13:50 (2D)",
+                "15:40 (2D)",
+                "17:30 (2D)",
+                "19:20 (2D)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:20 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": [
+                "10:00 (2D)",
+                "11:50 (2D)",
+                "13:40 (2D)",
+                "15:30 (2D)",
+                "17:20 (2D)",
+                "19:10 (2D)"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "10:00 (2D)",
+                "11:50 (2D)",
+                "13:40 (2D)",
+                "15:30 (2D)",
+                "17:20 (2D)",
+                "19:10 (2D)"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "10:00 (2D)",
+                "11:50 (2D)",
+                "13:40 (2D)",
+                "15:30 (2D)",
+                "17:20 (2D)",
+                "19:10 (2D)"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "10:00 (2D)",
+                "11:50 (2D)",
+                "13:40 (2D)",
+                "15:30 (2D)",
+                "17:20 (2D)",
+                "19:10 (2D)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["10:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["10:10 (2D)", "18:20 (2D)", "20:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["10:10 (2D)", "18:20 (2D)", "20:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["10:10 (2D)", "18:20 (2D)", "20:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "place": "Shahdag",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["10:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["13:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["13:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["13:30 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["13:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "place": "Aygun Mall",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gözəl toyum",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["12:20 (2D)", "23:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": [
+                "11:00 (2D) VIP",
+                "13:00 (2D) VIP",
+                "13:50 (2D)",
+                "21:20 (2D)",
+                "23:20 (2D) VIP"
+              ]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": [
+                "11:00 (2D) VIP",
+                "13:00 (2D) VIP",
+                "13:50 (2D)",
+                "21:20 (2D)",
+                "23:20 (2D) VIP"
+              ]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": [
+                "11:00 (2D) VIP",
+                "13:00 (2D) VIP",
+                "13:50 (2D)",
+                "21:20 (2D)",
+                "23:20 (2D) VIP"
+              ]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": [
+                "11:00 (2D) VIP",
+                "13:00 (2D) VIP",
+                "13:50 (2D)",
+                "21:20 (2D)",
+                "23:20 (2D) VIP"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["20:20 (2D)", "22:20 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["20:20 (2D)", "22:20 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["20:20 (2D)", "22:20 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["20:20 (2D)", "22:20 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["20:20 (2D)", "22:20 (2D)", "00:20 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["12:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["18:30 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["18:10 (2D)", "14:50 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["18:10 (2D)", "14:50 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["18:10 (2D)", "14:50 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["18:10 (2D)", "14:50 (2D)", "18:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "place": "Shahdag",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:10 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["17:10 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["17:10 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["17:10 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["17:10 (2D)", "19:10 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "place": "Aygun Mall",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["11:20 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["11:20 (2D)", "15:00 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["11:20 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["11:20 (2D)", "18:40 (2D)", "22:20 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Bö Alajen",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["11:00 (2D)", "14:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["11:00 (2D)", "14:10 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["11:00 (2D)", "14:10 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["11:00 (2D)", "14:10 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["10:50 (2D)", "14:00 (2D)", "17:10 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["10:50 (2D)", "14:00 (2D)", "17:10 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["10:50 (2D)", "14:00 (2D)", "17:10 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["10:50 (2D)", "14:00 (2D)", "17:10 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["10:40 (2D)", "13:50 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["10:40 (2D)", "13:50 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["10:40 (2D)", "13:50 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["10:40 (2D)", "13:50 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nəsibsizlər adası",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["19:30 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["19:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["15:30 (2D)", "19:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["15:30 (2D)", "19:30 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["15:30 (2D)", "19:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["23:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["13:40 (2D)", "16:20 (2D)", "23:10 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["13:40 (2D)", "16:20 (2D)", "23:10 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["13:40 (2D)", "16:20 (2D)", "18:30 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Xoşbəxtlik",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["22:10 (2D)", "00:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["18:30 (2D)", "20:20 (2D)", "22:10 (2D), 00:10 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["18:30 (2D)", "20:20 (2D)", "22:10 (2D), 00:10 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["18:30 (2D)", "20:20 (2D)", "22:10 (2D), 00:10 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["18:30 (2D)", "20:20 (2D)", "22:10 (2D), 00:10 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Metro Park",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:20 (2D)", "19:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["18:20 (2D)","22:00 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["18:20 (2D)","22:00 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["18:20 (2D)","22:00 (2D)", "23:50 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["18:20 (2D)","22:00 (2D)", "23:50 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["18:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["10:50 (2D)", "14:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["10:50 (2D)", "14:20 (2D)", "18:30 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["10:50 (2D)", "14:20 (2D)", "18:30 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "place": "Zaqulba",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["14:00 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["14:00 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["10:10 (2D)", "14:00 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["10:10 (2D)", "14:00 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "place": "Shahdag",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["00:10 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["13:30 (2D)","15:40 (2D)","17:50 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["13:30 (2D)","15:40 (2D)","17:50 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["13:30 (2D)","15:40 (2D)","17:50 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["13:30 (2D)","15:40 (2D)","17:50 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "place": "Aygun Mall",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["18:40 (2D)", "22:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "00:20 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["15:00 (2D)", "18:40 (2D)", "00:20 (2D)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pristsila. Elvis ve men",
+      "theatre": [
+        {
+          "id": 1,
+          "place": "Park Bulvar",
+          "dates": [
+            {
+              "id": 1,
+              "date": "senbe, 03 fevral",
+              "seans": ["17:20 (2D)", "21:40 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["17:20 (2D)", "21:40 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["17:20 (2D)", "21:40 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["17:20 (2D)", "21:40 (2D)"]
+            },
+            {
+              "id": 5,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["17:20 (2D)", "21:40 (2D)"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "place": "Flame Towers",
+          "dates": [
+            {
+              "id": 1,
+              "date": "bazar gunu, 04 fevral",
+              "seans": ["21:00 (2D)", "23:20 (2D)"]
+            },
+            {
+              "id": 2,
+              "date": "bazar ertesi, 05 fevral",
+              "seans": ["21:00 (2D)", "23:20 (2D)"]
+            },
+            {
+              "id": 3,
+              "date": "cersenbe axsami, 06 fevral",
+              "seans": ["21:00 (2D)", "23:20 (2D)"]
+            },
+            {
+              "id": 4,
+              "date": "cersenbe, 07 fevral",
+              "seans": ["21:00 (2D)", "23:20 (2D)"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
